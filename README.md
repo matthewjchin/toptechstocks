@@ -9,7 +9,7 @@ This report assesses the exponential trends in these big tech stocks that are pu
 
 Any questions or concerns or contributions to the project, feel free to open an [issue](https://github.com/matthewjchin/toptechstocks/issues) or a [pull request](https://github.com/matthewjchin/toptechstocks/pulls). 
 
-Last updated: Friday 29 April 2022
+Last updated: Monday 2 May 2022
 
 <br>
 
